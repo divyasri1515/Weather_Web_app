@@ -29,9 +29,13 @@ The application sends a request to the OpenWeatherMap API based on the user’s 
 🔹 Project Structure
 
 Weather-Web-App/
+
 │
+
 ├── weather.html
+
 ├── style.css
+
 └── weather.js
 
 🔹 Setup Instructions
